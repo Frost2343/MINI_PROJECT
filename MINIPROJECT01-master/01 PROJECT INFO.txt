@@ -1,0 +1,4 @@
+**Creates a invoice with entered name by user**
+
+**You can enter the products in the products txt file **
+

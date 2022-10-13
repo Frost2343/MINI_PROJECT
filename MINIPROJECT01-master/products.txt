@@ -1,0 +1,3 @@
+Phone,990
+Laptop,990
+HDD,990
